@@ -89,5 +89,5 @@ Prototype Stage (Frontend + Concept Validation)
 This project is for educational and prototype purposes.
 
 ## Live Demo
-[View Prototype](https://your-link-here)
+[View Prototype](https://youtu.be/o9T0H8HryUc)
 
