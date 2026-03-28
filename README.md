@@ -41,14 +41,18 @@ This creates a win-win ecosystem:
 ```
 africanvas/
 │
-├── frontend/ # UI prototype (HTML, CSS, JavaScript)
-├── assets/ # Images, placeholders, and design elements
-├── docs/
-│ └── SRS.pdf # Software Requirements Specification
-├── README.md
+├── frontend/              
+│   ├── index.html
+│       ├── style.css
+│       └── script.js
+│
+├── assets/                # Images / placeholders
+│
+├── demo/
+│   └── demo-video-link.txt   #  link also in README
+│
+└── README.md              # Main explanation
 ```
-
-
 
 ## How It Works
 
